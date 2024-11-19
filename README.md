@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](https://github.com/arcgt/arcgt/blob/main/background_night.png?raw=true)
+<a href="url"><img src="[http://url.to/image.png](https://github.com/arcgt/arcgt/blob/main/background_night.png?raw=true)" align="center" width="1000" ></a>
 
 <!--
 **arcgt/arcgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
