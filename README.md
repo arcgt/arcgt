@@ -1,4 +1,4 @@
-<a href="https://github.com/arcgt"><img src="https://github.com/arcgt/arcgt/blob/main/intro.png?raw=true" align="center" width="1000" ></a>
+<a href="https://github.com/arcgt"><img src="https://github.com/arcgt/arcgt/blob/main/banner.png?raw=true" align="center" width="1000" ></a>
 
 <!--
 **arcgt/arcgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
