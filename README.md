@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![alt text](https://github.com/arcgt/arcgt/blob/main/background_night.png?raw=true)
+
 <!--
 **arcgt/arcgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
