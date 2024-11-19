@@ -1,6 +1,6 @@
 <a href="https://github.com/arcgt"><img src="https://github.com/arcgt/arcgt/blob/main/banner.png?raw=true" align="center" width="1920" ></a>
 
-[![arcgt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arcgt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=arcgt&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **arcgt/arcgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
