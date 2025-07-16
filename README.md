@@ -1,4 +1,5 @@
 <a href="https://github.com/arcgt"><img src="https://github.com/arcgt/arcgt/blob/main/intro.gif?raw=true" align="center" width="1920" ></a>
+[Check out my portfolio](https://arcgt.github.io/my-portfolio/)
 
 <!--
 **arcgt/arcgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
